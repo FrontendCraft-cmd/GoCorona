@@ -1,2 +1,2 @@
 # GoCorona
-GitHub Pages - https://nebeyi.github.io/GoCorona/
+GitHub Pages - https://frontendcraft-cmd.github.io/GoCorona/
